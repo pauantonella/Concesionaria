@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\FINAL LAB 1\Concesionaria\bin\Debug\net8.0\Concesionaria.exe
+C:\Users\usuario\Desktop\FINAL LAB 1\Concesionaria\bin\Debug\net8.0\Concesionaria.deps.json
+C:\Users\usuario\Desktop\FINAL LAB 1\Concesionaria\bin\Debug\net8.0\Concesionaria.runtimeconfig.json
+C:\Users\usuario\Desktop\FINAL LAB 1\Concesionaria\bin\Debug\net8.0\Concesionaria.dll
+C:\Users\usuario\Desktop\FINAL LAB 1\Concesionaria\bin\Debug\net8.0\Concesionaria.pdb
+C:\Users\usuario\Desktop\FINAL LAB 1\Concesionaria\obj\Debug\net8.0\Concesionaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\FINAL LAB 1\Concesionaria\obj\Debug\net8.0\Concesionaria.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\FINAL LAB 1\Concesionaria\obj\Debug\net8.0\Concesionaria.AssemblyInfo.cs
+C:\Users\usuario\Desktop\FINAL LAB 1\Concesionaria\obj\Debug\net8.0\Concesionaria.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\FINAL LAB 1\Concesionaria\obj\Debug\net8.0\Concesionaria.dll
+C:\Users\usuario\Desktop\FINAL LAB 1\Concesionaria\obj\Debug\net8.0\refint\Concesionaria.dll
+C:\Users\usuario\Desktop\FINAL LAB 1\Concesionaria\obj\Debug\net8.0\Concesionaria.pdb
+C:\Users\usuario\Desktop\FINAL LAB 1\Concesionaria\obj\Debug\net8.0\Concesionaria.genruntimeconfig.cache
+C:\Users\usuario\Desktop\FINAL LAB 1\Concesionaria\obj\Debug\net8.0\ref\Concesionaria.dll
